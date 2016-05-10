@@ -18,6 +18,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         ArcStatemnt arcTable = (ArcStatemnt) findViewById(R.id.arc_table);
 
-       arcTable.setSweepValue(340);
+//       arcTable.setSweepValue(340);
     }
 }
